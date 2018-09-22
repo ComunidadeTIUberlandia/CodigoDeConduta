@@ -15,14 +15,16 @@ Se enxergar necessidade e coerência de realizar posts com conteúdos promociona
 Postagens promocionais sem o consentimento da liderança do Minas Dev serão enxergadas como SPAM e serão deletadas;
 Ignorar esta conduta será passível de banimento, e sem aviso, dos nossos canais de comunicação;
 NÃO seja babaca: Qualquer tipo de assédio ou comportamentos de exclusão não são aceitáveis, e isso inclui, mas não está limitado a:
-	Uso de linguagem violenta contra outras pessoas;
-	Piadas discriminatórias;
-	Exposição de sexo explícito ou de material violento;
-	Doxing: Exposição de informações pessoais de outras pessoas;
-	Insultos pessoais, especialmente aqueles que se utilizam-se de termos racistas e sexistas;
-	Atenção sexual desnecessária;
-	Apoio ou encoragamento de terceiros para prática de qualquer um dos comportamentos acima;
-	Falta de bom senso, ou seja, se alguém pedir para que você pare um assédio ou comportamento grosseiro, então pare.
+- Uso de linguagem violenta contra outras pessoas;
+- Piadas discriminatórias;
+- Exposição de sexo explícito ou de material violento;
+- Doxing: Exposição de informações pessoais de outras pessoas;
+- Insultos pessoais, especialmente aqueles que se utilizam-se de termos racistas e sexistas;
+- Atenção sexual desnecessária;
+- Apoio ou encoragamento de terceiros para prática de qualquer um dos comportamentos acima;
+- Falta de bom senso, ou seja, se alguém pedir para que você pare um assédio ou comportamento grosseiro, então pare.
+
+Em resumo, pedimos bom-senso!
 
 Este código de conduta com certeza não está completo. Ele serve apenas como tentativa de concentrar a nossa compreensão de colaboratividade em nossa comunidade de acordo com os objetivos propostos pelo Manifesto da Comunidade TI Uberlândia.
 
