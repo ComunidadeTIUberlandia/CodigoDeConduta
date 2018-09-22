@@ -1,4 +1,4 @@
-📖 Código de Conduta 📖
+📚 Código de Conduta 📚
 Código de Conduta da Comunidade TI Uberlândia
 
 O Código de Conduta da Comunidade TI Uberlândia expressa nossas expectativas com relacão ao comportamento dos participantes diretos ou indiretos da comunidade, punições em casos de desrespeito do mesmo e os caminhos para reportar comportamentos contrários as propostas apresentadas por este documento.
