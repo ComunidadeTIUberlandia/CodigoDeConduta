@@ -6,14 +6,23 @@ O Código de Conduta da Comunidade TI Uberlândia expressa nossas expectativas c
 Nossa comunidade deseja que você:
 
 Seja amigável e paciente;
+
 Respeite o objetivo e foco da comunidade;
+
 Seja colaborativo dentro do foco e objetivo da comunidade;
+
 NÃO realize SPAM em nossos canais de comunicação;
+
 NÃO faça posts promocionais em nossos canais de comunicação:
+
 NÃO faça posts fora do foco e objetivo do grupo;
+
 Se enxergar necessidade e coerência de realizar posts com conteúdos promocionais nos contextos de atuação da TI Uberlândia, entre em contato imediatamente com os líderes;
+
 Postagens promocionais sem o consentimento da liderança da Comunidade TI Uberlândia serão enxergadas como SPAM e serão deletadas;
+
 Ignorar esta conduta será passível de banimento, e sem aviso, dos nossos canais de comunicação;
+
 NÃO seja babaca: qualquer tipo de assédio ou comportamentos de exclusão não são aceitáveis, e isso inclui, mas não está limitado a:
 - Uso de linguagem violenta contra outras pessoas;
 - Piadas discriminatórias;
